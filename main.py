@@ -12,7 +12,7 @@ source = 'the-times-of-india' #  news source
 News_API_KEY = '079b4eda954b4e0cb513714bbc6f5b8b'#  news API key
 url = f'https://newsapi.org/v2/top-headlines?sources={source}&apiKey={News_API_KEY}'  
 weather_api_key = "ee0bccd565e847b3ac5151957243010"# weather  API key
-genai.configure(api_key="AIzaSyD6-cLg72lAhfof4GlVpwsEQsCpWmzDtuA")  #gemini api
+genai.configure(api_key="#add personalised api")  #gemini api
 
 #Fuctions
 
