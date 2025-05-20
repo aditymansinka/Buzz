@@ -24,7 +24,7 @@ def greet():
     elif hour >= 12 and hour < 18:
         add_message("bot","Good Afternoon!") #afternoon
     else:
-        add_message("bot","Good Evening!")#eveneing
+        add_message("bot","Good Evening!")#evening
     add_message("bot","Hi, this is Buzz, how can I help you?")
 
 #function to send emails
